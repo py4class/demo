@@ -26,3 +26,5 @@ lmdiag
 see
 linearmodels
 linearsolve
+otter-grader
+pandas-datareader
