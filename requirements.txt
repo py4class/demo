@@ -28,3 +28,4 @@ see
 #linearsolve
 otter-grader
 #pandas-datareader
+japanize-matplotlib-jlite
