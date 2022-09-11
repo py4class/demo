@@ -21,7 +21,7 @@ plotly>=5,<6
 theme-darcula
 py4macro
 #py4etrics
-wooldridge
+#wooldridge
 #lmdiag
 see
 #linearmodels
